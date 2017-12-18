@@ -1,0 +1,21 @@
+tinymce.addI18n('tr', {
+    'Icons': 'Simgeler',
+    'Web Application': 'Ağ Uygulamaları',
+    'File Type': 'Dosya Tipi',
+    'Spinner': 'Dönen',
+    'Form Control': 'Form Kontrolü',
+    'Currency': 'Para Birimi',
+    'Text Editor': 'Yazı Editörü',
+    'Directional': 'Yönlendiriciler',
+    'Video Player': 'Video Oynatıcısı',
+    'Brand': 'Marka',
+    'Medical': 'Tıbbi',
+    'Transportation': 'Taşıma',
+    'Gender': 'Cinsiyet',
+    'Payment': 'Ödeme',
+    'Chart': 'Grafik',
+    'Hand': 'El',
+    'Search': 'Arama',
+    'Accessibility': 'Erişilebilirlik',   
+    'No icons matched your search': 'Aramanızla eşleşen simge bulunamadı'
+});
