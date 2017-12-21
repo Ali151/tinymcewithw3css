@@ -9,6 +9,8 @@ ADDING FILES FOR UPDATE (for Tinymce 4.7.4) --ENGLISH--
 
 Notes:
 *: w3css2, htmltags and sitetemplates plug-ins use pictures from w3css folder.
+**: Github link: https://github.com/Ali151/tinymcewithw3css
+
 
 ******************************************************************************************************
 
@@ -23,4 +25,5 @@ GUNCELLEME ICIN EKLENEN DOSYALAR: (Tinymce 4.7.4'e geçiş) --TÜRKÇE--
 
 Notlar:
 *: w3css2, htmltags ve sitetemplates eklentileri resimleri w3css dizininden kullanıyor.
+**: Github linki: https://github.com/Ali151/tinymcewithw3css
 ***************************************************************************************************** 
