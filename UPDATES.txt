@@ -1,9 +1,8 @@
-ADDING FILES FOR UPDATE (for Tinymce 4.7.4) --ENGLISH--
+ADDING FILES FOR UPDATE (for Tinymce 4.9.0) --ENGLISH--
 ------------------------------------------------------------------------------------------
-* UPDATES, README.txt, 474withw3css.html, index.html, favicon.png add to root.
+* UPDATES, README.txt, 490withw3css.html, index.html, favicon.png add to root.
 * LICENSES, css, fonts, js folders add to root.
 * custom2 folder adds to skins folder. 
-* 4 emicotions added. (small changes to plugins/emicotions)
 * w3css, w3css2, code2, code2tr, bgcolor, fontawesome, htmltags folders added to plugins folder. *
 * All language files added. New lines added to "tr" language file . (to langs folder) 
 
@@ -14,12 +13,11 @@ Notes:
 
 ******************************************************************************************************
 
-GUNCELLEME ICIN EKLENEN DOSYALAR: (Tinymce 4.7.4'e geçiş) --TÜRKÇE--
+GUNCELLEME ICIN EKLENEN DOSYALAR: (Tinymce 4.9.0'a geçiş) --TÜRKÇE--
 --------------------------------------------------------------------------------------------
-* UPDATES, README.txt, 474withw3css.html, index.html, favicon.png ana dizine eklenir.
+* UPDATES, README.txt, 490withw3css.html, index.html, favicon.png ana dizine eklenir.
 * LICENSES, css, fonts, js klasörleri ana dizine eklenir.
 * skins dizinine custom2 klasörü eklenir. 
-* 4 adet emicotion eklendi (plugins/emicotions koda ekleme de yapıldı.)
 * plugins dizinine w3css, w3css2, code2, code2tr, bgcolor, fontawesome, htmltags klasörleri eklenir. *
 * Tüm dil dosyaları eklendi. "tr" dil dosyasına eklemeler yapılarak eklendi. (langs dizinine)
 
